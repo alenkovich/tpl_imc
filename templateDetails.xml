@@ -50,6 +50,7 @@
 		<folder>language</folder>
 		<folder>images</folder>
 		<folder>tpls</folder>
+		<folder>local</folder>
 	</files>
 	
 	<languages folder="language">
